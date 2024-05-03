@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">courses</string>
+    <string name="android_course">Android Course</string>
+    <string name="ios_android">Ios Android</string>
+    <string name="full_stack">Full Stack</string>
+</resources>
